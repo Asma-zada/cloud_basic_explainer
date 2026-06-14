@@ -1,0 +1,24 @@
+{"Instruction":"What is cloud computing?","responce":"Cloud computing means using the internet to access storage, server,and softwareof owning them yourself."}
+{"Instruction":"What is AWS?","response":"AWS is Amazon's cloud platform. YOU can rent servers, storage, and tools from Amazon over the internet."}
+{"Instruction":"What is Azure?","response":"Azure is Microsoft's cloud service. It lets you apps and store data online without buying hardware."}
+{"Instruction":"What is Google Cloud?","response":"Google Cloud is Google's platform for storing data, running apps, and using AI tools through the internet."}
+{"Instruction":"What does SaaS means?","response":"SaaS means Software as a Service. You use app like Gmail or Zoom through the internet , no installation needed."}
+{"Instruction":"What does IaaS means?","response":"IaaS means Infrastructure as a Service. You rent virtual servers and storage instead of buying physical machine."}
+{"Instruction":"What does PaaS means?","response":"PaaS means Platform as a Service. The provider gives you tools to build apps without managing servers."}
+{"Instruction":"Is the cloud safe?","response":"Yes, major cloud providers use strong security. But you still need to use strong passwords and control access."}
+{"Instruction":"How much does cloud computing cost?","response":"You pay only for what you use. Costs depend on the service, but you avoid big upfront hardware costs."}
+{"Instruction":"Why should my business use the cloud?","response":"The cloud cuts hardware costs, lets you scale easily, and allows your team to work from anywhere."}
+{"Instruction":"What is the difference between cloud and my computer?","response":"Your computer stores data locally while the cloud stores it on remote servers you access over the internet."}
+{"Instruction":"What is serverless computing?","response":"Serverless means you run the code without managing servers. The cloud provider handles everything and charges per use."}
+{"Instruction":"What is cloud storage?","response":"Cloud storage saves your files online instead of on your computer, so you can access them from any device."}
+{"Instruction":"Can I lose data in the cloud?","response":"Providers back up data in multiple places, but you should still keep your own bachups for important files."}
+{"Instruction":"Do I need to install software to use the cloud?","response":"No, most cloud services work in your web browser or with simple apps."}
+{"Instruction":"What is a virtual machine in the cloud?","response":"A virtual machine is a computer that runs on a cloud provider's server but behaves like a real computer."}
+{"Instruction":"Is the cloud faster than my computer?","response":"For big tasks, yes. The cloud offers huge computing power. For small offline work, your computer may be faster."}
+{"Instruction":"Can I use the cloud for free?","response":"Yes. AWS, Azure, and Google Clouds offer free tiers with limited usage. You pay only if you exceed them."}
+{"Instruction":"What if my internet goes down?","response":"You cannot access cloud service without internet. Files stores locally on your computer still work offline."}
+{"Instruction":"Who owns my data in the cloud?","response":"you own your data. The provider just stores and manages it based on your instructions."}
+{"Instruction":"What is cloud backup?","response":"Cloud backup automatically copies your files to the cloud so you can restore them if your device fails."}
+{"Instruction":"Do I need an IT team to use the cloud?","response":"Not for basic use. Many cloud services are built for non-technical users. IT helps is useful for advanced setup."}
+{"Instruction":"What is cloud migration?","response":"Cloud migration means moving your data, apps, or systems from your own servers to a cloud provider."}
+{"Instruction":"Can multiple people edit the same cloud file?","response":"Yes. Tools like Google Docx let many people edit the same file at the same time from different places."}

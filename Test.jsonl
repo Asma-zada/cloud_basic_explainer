@@ -1,0 +1,6 @@
+{"Instruction":"What is a downside of the cloud?","response":"You need internet to access it, monthly costs can add up, and you trust a third party with your data."}
+{"Instruction":"What is a cloud region?","response":"A cloud region is a physical location of a provider's servers. Picking one near you can make things faster."}
+{"Instruction":"Can I run my website on the cloud?","response":"Yes. Most websites run on the cloud because it's cheaper, faster to set up, and handles traffic spikes well."}
+{"Instruction":"What is auto-scaling","response":"Auto-scaling means the cloud automatically adds or removes computing power based on your usage."}
+{"Instruction":"Is my data is private on the cloud?","response":"Providers use encryption and access controls, but you should set strong passwords and manage permissions."}
+{"Instruction":"What is cloud hosting?","response":"Cloud hosting means running your website or app on cloud servers instead of on your own computer."}
