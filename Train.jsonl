@@ -1,5 +1,5 @@
-{"Instruction":"What is cloud computing?","responce":"Cloud computing means using the internet to access storage, server,and softwareof owning them yourself."}
-{"Instruction":"What is AWS?","response":"AWS is Amazon's cloud platform. YOU can rent servers, storage, and tools from Amazon over the internet."}
+{"Instruction":"What is cloud computing?","response":"Cloud computing means using the internet to access storage, server,and software of owning them yourself."}
+{"Instruction":"What is AWS?","response":"AWS is Amazon's cloud platform. You can rent servers, storage, and tools from Amazon over the internet."}
 {"Instruction":"What is Azure?","response":"Azure is Microsoft's cloud service. It lets you apps and store data online without buying hardware."}
 {"Instruction":"What is Google Cloud?","response":"Google Cloud is Google's platform for storing data, running apps, and using AI tools through the internet."}
 {"Instruction":"What does SaaS means?","response":"SaaS means Software as a Service. You use app like Gmail or Zoom through the internet , no installation needed."}
