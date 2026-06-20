@@ -15,6 +15,6 @@ This tools answers basic questions about cloud computing in simple, non-technica
 3. What do SaaS, IaaS, and PaaS means?
 4. Is my data safe in the cloud?
 5. How much does cloud computing cost?
-6. Why should ,y business use the cloud?
+6. Why should business use the cloud?
 7. What is the difference between cloud and storing data on my own computer?
   
