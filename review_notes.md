@@ -6,7 +6,7 @@
 4. Removed redundant questions and replaced them with distinct topics like AWS, Azure, Google Cloud, SaaS, IaaS, PaaS, serverless, cloud storage, virtual machine, cloud backup, cloud migration, auto-scalling, cloud hosting
 
 ## What mistakes were removed
-1. Vague definitions that assumed prior kniowledge
+1. Vague definitions that assumed prior knowledge
 2. Responses that were too long or too technical for beginners
 3. Duplicate coverage of the same concept with different wording
 4. Inconsistent formatting in JSON lines
